@@ -6,4 +6,4 @@ Layout:
 | - | - |
 | raw | Raw files obtained from EAC |
 | converted-geojson | Shapefiles converted to GeoJSON without any geometry processing |
-
+| diff | Shapefiles of redistricting |
